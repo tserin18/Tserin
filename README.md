@@ -1,2 +1,0 @@
-# Tserin
-My Repo
